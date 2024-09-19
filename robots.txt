@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bercelet.github.io/sitemap.html.gz
+Sitemap: https://bercelet.github.io/app/sitemap.html.gz
+Sitemap: https://bercelet.github.io/assets/sitemap.html.gz
+Sitemap: https://bercelet.github.io/css/sitemap.html.gz
+Sitemap: https://bercelet.github.io/data/sitemap.html.gz
+Sitemap: https://bercelet.github.io/includes/sitemap.html.gz
+Sitemap: https://bercelet.github.io/item/sitemap.html.gz
+Sitemap: https://bercelet.github.io/src/sitemap.html.gz
